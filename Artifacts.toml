@@ -1,0 +1,288 @@
+[[HPTT]]
+arch = "aarch64"
+git-tree-sha1 = "4319c8ad653efe70f27d06d4c0662f53593ecf19"
+os = "macos"
+
+    [[HPTT.download]]
+    sha256 = "c451ad5f5bf1be7d704342dba3c519ffc417293795dede248a9604e21898ffc9"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.aarch64-apple-darwin.tar.gz"
+[[HPTT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b382e364d3aef38f6c50cbc23a619004834e242"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "e1d40c127198b0bf95cb63e08358d38c39e613bb4e82543c92094be160e88ea9"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.aarch64-linux-gnu-cxx03.tar.gz"
+[[HPTT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70d549cdc1e9c6d1feb1ca98b02c3293309b0eb2"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "bb9b62899c384a913e20f59c84b7d7f94e050b431ea42c2443b4a11de868d523"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.aarch64-linux-gnu-cxx11.tar.gz"
+[[HPTT]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d04cdb34db224d46d3b1373add5693af4ce9bb24"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "a8973dd6abe5163701b4e3afa52ebe6699d30b57f6fd9f6233c1a50f2de4f498"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.aarch64-linux-musl-cxx03.tar.gz"
+[[HPTT]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "306d451731e82d6394b04b7c1913f703b56cfa38"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "e827e0e4d0f70d1aad1a79d6fdf28099b42a47d890cd8c93c49ef240738aa31a"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.aarch64-linux-musl-cxx11.tar.gz"
+[[HPTT]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4287e417a5d462e1ea4bcfaf04cc64e36a912247"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "f2883a5e96462d0c7362a9248462858e6de4f54edf2b55538d532f466c01bec0"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[HPTT]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9e9e498d05ddd08128b712023e32ebfad88897aa"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "053c294f1b0133ea80e1ab06b67d55e165762b5681862fbd58631fa6df97d166"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[HPTT]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da19439727febb459bb0efb703eafa4544ee86fa"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "2085c8162734358e44253bc1aaf577c81dbbd8f393744fb69aae917d14295111"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[HPTT]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ac8c3728dc081ff49552cdd96685ad913a2dd8c"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "8d1cbfdda99059224e4d8e74432deb019502a4ddf27565bc1c469a072ad4960c"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[HPTT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a1d8c45f8d6a7446f8be17ce5c6543b65bfcb1d0"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "265ada38971449b88aafc68911e554334cbbdf470392ed22bbb413d9995a4947"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[HPTT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e0852c194ea35b5d82ffc1a0530b3d670f1bd27d"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "debf4dc3268cd8ea1ff85750eddcf720dd2c2d8c281d7bfb19971d9456cdb20c"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[HPTT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "310ec13c800ca08b186bf7fc9787c2c68e6121f7"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "4438cd1dd462cdba599424c1f6ef2fd3aaebb3071334c66a6ac8c6484e062cce"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[HPTT]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5fed0f43af5d4c73e7b31a019029eb51ce5276b0"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "184fe5277a593c26d35af733865608096c79dee5862375be167d46e783c30715"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5237ea90da51f5e93c4020da3ac3ea6a01da213a"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "f6aef39bb1783f690b6e7380abc2caca9a0fa2c3c9820b6934e211dc73506a4c"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-linux-gnu-cxx03.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ab883a47c5e8e160b08517a24df7421b255d389d"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "b0d1ae6156a4a71b5cc96e57358e60d2062cf5422c152943ccea5b966bbb2ca2"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-linux-gnu-cxx11.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47bc77d9235da1fb565017cf14d3a6e749232459"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "a4338b46e054f41b0fb4a4e2e4f8fd3527e923dfd88fdf50dd645d5026ddd593"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-linux-musl-cxx03.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e56ef74109430c8daa5b5f59aa70bcf783f1e61e"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "1f33613c7c61c37829f469d824d534c73f4d2cceb2f25fa0f926e48258f14bd8"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-linux-musl-cxx11.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3e389de49da2a414ecf588c2ad88b8e832dbc017"
+os = "windows"
+
+    [[HPTT.download]]
+    sha256 = "609a20da2e044ad776c7c7be4c04713943412548339ce8e1c2f6170d5cc1aa5a"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-w64-mingw32-cxx03.tar.gz"
+[[HPTT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f4de0e4ef08c632e1a664c2ad2ea10451362ec9f"
+os = "windows"
+
+    [[HPTT.download]]
+    sha256 = "240fe0aa12ef42e74867848aad64a873f2214b5a9c2faeb45f315b7fdb5766db"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.i686-w64-mingw32-cxx11.tar.gz"
+[[HPTT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "19012fb832b8c0b49d483e959ba1486f7a85f3b2"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "ae0ccfe2fd3d49db9e5ececdb5b4f01adeed6a2c933bdfc480e2994c70b879b0"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[HPTT]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "277db14250d56b6395559198e74db225202d9611"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "1faf52b34942bf68a2fcea1ca0440a6a61662a62e4f6beb449252a13b93b0105"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+git-tree-sha1 = "104a62e2700e7438b2fbdc93457ba977dbcdd600"
+os = "macos"
+
+    [[HPTT.download]]
+    sha256 = "024cb702d5d667b66108f5af1d48a8f9333bea29629eaf412270474bbb2782e2"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-apple-darwin.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e69bbd3d6ad3eb4e777dd1300d41952b92ec470b"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "96bb6a5c8bc7b1a036f2317ac2361cc2815f7ab1e09fd1b2b8e0c51eb667906c"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9dc44197d51d10da6c663f626a75d5d11a0199e0"
+libc = "glibc"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "df131b8e69cda309b53694753e69a63725374f65256dc692443f64d61d0d7e18"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "28e6418c1d0d50da90976a87873f9e48ae8ece12"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "512e83243d42c219c5cb4176d4e756859e5a9f65ee078baf6868edfc62c13681"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-linux-musl-cxx03.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1b7fd60a6358694ad46c16beeb73644773d29de"
+libc = "musl"
+os = "linux"
+
+    [[HPTT.download]]
+    sha256 = "9a5870906b70a3ad28c17e16ac7530f307b2c099987263995aa9d8125cb6bfcc"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-linux-musl-cxx11.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+git-tree-sha1 = "e0c1289b0f3fb4365311942b98c54c61ebc041f3"
+os = "freebsd"
+
+    [[HPTT.download]]
+    sha256 = "ad02e56c045bbeb43e3a49b2d8dbd672ff42531198b1aa6cb5608bfd1bd2720f"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-unknown-freebsd.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "afdf8cca58e4895125138627f0f89a6ed50ea6cd"
+os = "windows"
+
+    [[HPTT.download]]
+    sha256 = "3ed908abdc8137370f23ac5f3ae597f68a6579e1734d1082eb6f8ab5ea3d5d80"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[HPTT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06c543eff877c2f530e84263cc7262253924486a"
+os = "windows"
+
+    [[HPTT.download]]
+    sha256 = "31136744c49fcfa74d2eeee026ae40ceec75f98bb20a5a5f04bcd1f7fa945cef"
+    url = "https://github.com/JuliaBinaryWrappers/HPTT_jll.jl/releases/download/HPTT-v1.0.5+0/HPTT.v1.0.5.x86_64-w64-mingw32-cxx11.tar.gz"
